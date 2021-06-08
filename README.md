@@ -1,0 +1,3 @@
+- 25 yo IT student
+- Located in 🇫🇷
+- Learning development and security
