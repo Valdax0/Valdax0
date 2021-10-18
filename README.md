@@ -1,4 +1,2 @@
-- 25 yo IT student
-- Located in 🇫🇷
-- Maths (Cryptography) enthusiast
-- Learning development and software security
+Undergraduate CS student
+Univ Orleans FR
